@@ -1,0 +1,3 @@
+﻿  array-03.cpp
+C:\Users\nma5h\Desktop\DataStructuresC\C-Data-Structures\part3-array-practice\array-03\array-03.cpp(6,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  array-03.vcxproj -> C:\Users\nma5h\Desktop\DataStructuresC\C-Data-Structures\part3-array-practice\x64\Debug\array-03.exe
